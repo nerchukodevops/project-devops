@@ -1,4 +1,4 @@
 ex.class
-* .txt
-* .csv
-results
+*.txt
+*.csv
+
